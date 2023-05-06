@@ -1,0 +1,28 @@
+{
+  "name": "active-developer-badge",
+  "version": "1.0.0",
+  "description": "An easy tool to get the Active Developer Badge, provided by Sotgun.",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/rest": "^1.7.1",
+    "discord.js": "^14.10.2",
+    "dotenv": "^16.0.3",
+    "eris": "^0.17.1",
+    "opusscript": "^0.0.8",
+    "tweetnacl": "^1.0.3",
+    "ws": "^8.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SotirSotiriou/namemc.git"
+  },
+  "author": "Sotgun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SotirSotiriou/namemc/issues"
+  },
+  "homepage": "https://github.com/SotirSotiriou/namemc#readme"
+}
